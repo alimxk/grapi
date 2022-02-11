@@ -1,0 +1,19 @@
+{
+  "name": "grapi",
+  "version": "0.0.1",
+  "description": "Lightweight API service with a pre-built collection of configurable JSON objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimxk/grapi.git"
+  },
+  "author": "Alim Khakimov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alimxk/grapi/issues"
+  },
+  "homepage": "https://github.com/alimxk/grapi#readme"
+}
