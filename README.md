@@ -6,7 +6,7 @@ GrAPI is a lightweight HTTP service that serves a wide collection of configurabl
 
 ### Usage
 
-```sh
+```bash
 
 # Install grapi universally
 
